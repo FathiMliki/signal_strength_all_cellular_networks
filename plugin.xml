@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin id="org.apache.cordova.signal-strength" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+<plugin id="cordova-plugin-signal-strength-all-cellular-networks" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0">
   <name>Signal</name>
   <description>GSM Signal Strength Plugin</description>
   <license>Apache 2.0</license>
