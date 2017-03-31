@@ -1,0 +1,19 @@
+{
+  "name": "signal_strength_all_cellular_networks",
+  "version": "0.0.1",
+  "description": "My first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FathiMliki/signal_strength_all_cellular_networks.git"
+  },
+  "author": "Fathi Mliki <fathi_mliki@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FathiMliki/signal_strength_all_cellular_networks/issues"
+  },
+  "homepage": "https://github.com/FathiMliki/signal_strength_all_cellular_networks#readme"
+}
